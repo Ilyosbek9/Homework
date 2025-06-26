@@ -1,4 +1,4 @@
-import random
+import random # random sonni topish
 
 n = int(input("n ni kiriting: "))
 sirli_son = random.randint(1, n)
